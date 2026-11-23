@@ -1,0 +1,6 @@
+{
+  "name": "CineCraft",
+  "description": "CineCraft AI Studio — mobile creative production suite for AI directing, voiceover synthesis, camera capture, video timeline editing, gallery management, and export tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
